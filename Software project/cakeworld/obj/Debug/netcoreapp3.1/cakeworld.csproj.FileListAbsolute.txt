@@ -1,0 +1,762 @@
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfo.cs
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.exe
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.deps.json
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.json
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.pdb
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.Manifest.cache
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.xml
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\scopedcss\bundle\cakeworld.styles.css
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CopyComplete
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.dll
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.pdb
+C:\Users\Acer\Desktop\New folder (2)\cakeworld_solution\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.genruntimeconfig.cache
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.exe
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.deps.json
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.json
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.dev.json
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.pdb
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csprojAssemblyReference.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfoInputs.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfo.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CoreCompileInputs.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.MvcApplicationPartsAssemblyInfo.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.Manifest.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.xml
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\scopedcss\bundle\cakeworld.styles.css
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CopyComplete
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.dll
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.pdb
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.genruntimeconfig.cache
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.Views.dll
+E:\Software Project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.Views.pdb
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorAssemblyInfo.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorAssemblyInfo.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.TagHelpers.input.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.TagHelpers.output.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorCoreGenerate.cache
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Create.cshtml.g.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Delete.cshtml.g.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Details.cshtml.g.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Edit.cshtml.g.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Index.cshtml.g.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cs
+E:\Software Project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.Views.pdb
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.exe
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.deps.json
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.json
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.pdb
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.Views.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.Views.pdb
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfo.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.Manifest.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.xml
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\scopedcss\bundle\cakeworld.styles.css
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.TagHelpers.input.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.TagHelpers.output.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorCoreGenerate.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cs
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.Views.pdb
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CopyComplete
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.dll
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.pdb
+C:\Users\Acer\Desktop\softwareproject\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.exe
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.deps.json
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.json
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.pdb
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.Views.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.Views.pdb
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.Manifest.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.xml
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\scopedcss\bundle\cakeworld.styles.css
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.TagHelpers.input.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.TagHelpers.output.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorCoreGenerate.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Create.cshtml.g.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Delete.cshtml.g.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Details.cshtml.g.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Edit.cshtml.g.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Index.cshtml.g.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cs
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.Views.pdb
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CopyComplete
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.dll
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.pdb
+C:\Users\Acer\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.genruntimeconfig.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.exe
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.deps.json
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.json
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.runtimeconfig.dev.json
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.pdb
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.Views.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cakeworld.Views.pdb
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csprojAssemblyReference.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfoInputs.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.AssemblyInfo.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorAssemblyInfo.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorAssemblyInfo.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.TagHelpers.input.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.TagHelpers.output.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorCoreGenerate.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Create.cshtml.g.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Delete.cshtml.g.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Details.cshtml.g.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Edit.cshtml.g.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Cakes\Index.cshtml.g.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.RazorTargetAssemblyInfo.cs
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.Views.pdb
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.Manifest.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\staticwebassets\cakeworld.StaticWebAssets.xml
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.pdb
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.genruntimeconfig.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CopyComplete
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.csproj.CoreCompileInputs.cache
+C:\Users\this pc\Desktop\Software project\cakeworld\obj\Debug\netcoreapp3.1\cakeworld.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,85 @@
+body{
+  background-color: rgb(255, 255, 255);
+  
+}
+h1{
+  font-size: 38px;
+  color: rgb(73, 73, 73);
+}
+
+
+input[type=text] {
+  width: 30%;
+  padding: 8px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(194, 194, 194);
+  color: rgb(10, 10, 10);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=password] {
+  width: 30%;
+  padding: 8px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(194, 194, 194);
+  color: rgb(10, 10, 10);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=submit] {
+  background-color: rgb(211, 26, 26);
+  border: none;
+  color: rgb(248, 242, 242);
+  padding: 9px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  /* cursor: pointer; */
+  border-radius: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 22px;
+}
+
+select {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(10, 10, 10);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container{
+  background-color: rgb(255, 255, 255);
+  border-style: hidden;
+  border-radius: 15px;
+  padding:18px;
+  text-align: center;
+  
+  
+ 
+  
+}
+@media screen and (max-width:900px){
+
+    .main-contianer{
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: space-evenly; 
+      
+    }
+  
+  }
+
