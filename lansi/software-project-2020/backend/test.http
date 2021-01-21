@@ -1,0 +1,7 @@
+POST  http://localhost:5000/api/User/signin
+
+
+{
+    "email":"Thilixxxni"  ,
+   " password":"12xx34",
+}
